@@ -20,4 +20,5 @@ This is a web-based Clinic Management System using HTML, CSS, JS, and Firebase. 
 4. Deploy to Firebase Hosting: `firebase deploy`.
 
 ## GitHub Repo
-[Link to your public repo]
+
+[https://github.com/Ashok9725/clinic-management-system]
