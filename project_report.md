@@ -264,6 +264,5 @@ Date: [01-02-2026]
 GitHub Repo: https://github.com/Ashok9725/clinic-management-system
 
 Live URL: [https://clinic-management-system-92b29.web.app]
-Date: [01-02-2026]
-GitHub Repo: https://github.com/Ashok9725/clinic-management-system
-Live URL: [https://clinic-management-system-92b29.web.app]
+
+
